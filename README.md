@@ -1,12 +1,13 @@
 <div id="header" align="center">
-<img src="https://user-images.githubusercontent.com/78228205/195420298-fa027e0f-8a17-4e2d-b01d-8e2c7f406a42.gif" 
+<img src="https://user-images.githubusercontent.com/78228205/195421771-82935899-7adc-48d8-8124-ee0cffb31f32.gif" 
         alt="Time frequency domain" 
         width="500" 
-        height="250" 
+        height="350" 
         style="display: block; margin: 0 auto" />
 </div>
 
 ### Hi there 👋!
+
 
 
 <!--
