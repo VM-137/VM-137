@@ -1,7 +1,10 @@
-[giphy](https://user-images.githubusercontent.com/78228205/195414127-99c6a781-d9ab-4324-bd4b-0709a942ce31.gif)
+<img src="https://user-images.githubusercontent.com/78228205/195417170-ce812b36-fccd-49ce-829d-627b9b292096.gif" 
+        alt="Time frequency domain" 
+        width="1200" 
+        height="300" 
+        style="display: block; margin: 0 auto" />
 
 ### Hi there 👋!
-![giphy](https://user-images.githubusercontent.com/78228205/195414308-34ff6adc-713c-47cb-9c7a-cf3093c1362f.gif)
 
 
 <!--
