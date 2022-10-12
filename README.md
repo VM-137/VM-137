@@ -1,8 +1,10 @@
-<img src="https://user-images.githubusercontent.com/78228205/195417170-ce812b36-fccd-49ce-829d-627b9b292096.gif" 
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/78228205/195420298-fa027e0f-8a17-4e2d-b01d-8e2c7f406a42.gif" 
         alt="Time frequency domain" 
-        width="1200" 
-        height="300" 
+        width="500" 
+        height="250" 
         style="display: block; margin: 0 auto" />
+</div>
 
 ### Hi there 👋!
 
