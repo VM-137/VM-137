@@ -12,8 +12,8 @@
 </div>
 
 ### Hi there, I'm Alberto!
-- 🔭 I’m currently working on Deep Learning projects
-- 🌱 I’m currently learning Machine Learning and Data Engineering
+- 🔭 I’m currently working on Data Engineering projects
+- 🌱 I’m currently learning Spark on DataBricks
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alberto-visciglia/)
 
 ## My Skill Set  
